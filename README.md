@@ -6,7 +6,7 @@ Community discord server (the amazing people there are to thank for encouraging 
 ## How to setup the themes
 Setting up the themes on a keitai is a rather easy process provided you have access to a computer. I have put together a video tutorial avaliable [here](https://www.youtube.com/watch?v=nXR82QfdmoU) that should help you get started. Most of these themes consist of an apps page along side a main homescreen with the likes of a clock or something similar.
 
-If you need any help setting up the themes, Head on over to the community discord server and I'd be glad to help :D
+If you need any help setting up the themes, head on over to the community discord server and I'd be glad to help :D
 
 ## Contributing
 I would love these themes to be used as a template for you to make your own themes. I know the community srounding Japanese keitai if a very creative group of people so I'd love to see how you express yourself through your keitai's homescreen be that retro, anime, or even just based on a person/place. 
